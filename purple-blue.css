@@ -1,0 +1,114 @@
+﻿body {
+    background-image: url("Fang&Bone - Purple&Blue/Majora.gif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: black;
+    color: rgb(155, 112, 52);
+}
+
+.logo-box {
+    background-image: url("images/4ttt.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.beat-of-the-week h2 {
+    background-image: url("images/Ganon.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: transparent;
+}
+
+.beat-box {
+    background-image: url("Fang&Bone - Purple&Blue/017.JPG");
+    background-size: 100% auto;
+    background-position: center top;
+    background-repeat: repeat;
+    border: 15px solid;
+    border-image: url("images/Gaius on platform.jpg") 30 round;
+    border-radius: 5px;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.7);
+}
+
+.beat-nav a:hover {
+    transform: translateY(-3px) scale(1.05);
+    filter: drop-shadow(0 0 8px rgb(212, 178, 104)) drop-shadow(0 0 15px rgb(212, 178, 104));
+    cursor: pointer;
+}
+
+.sad-button {
+    background-image: url("images/sppook.png");
+}
+
+.happy-button {
+    background-image: url("images/draaaaiiiin.png");
+}
+
+.angry-button {
+    background-image: url("images/Plateau-Revised.png");
+}
+
+.manor-button {
+    background-image: url("images/image.jpg");
+}
+
+.art-button {
+    background-image: url("images/image.jpg");
+}
+
+.WIP-button {
+    background-image: url("images/image.jpg");
+}
+
+.beat-nav-right a:hover {
+    transform: translateY(-3px) scale(1.05);
+    filter: drop-shadow(0 0 8px rgb(212, 178, 104)) drop-shadow(0 0 15px rgb(212, 178, 104));
+    cursor: pointer;
+}
+
+@font-face {
+    font-family: "Font";
+    src: url("fonts/friz-quadrata-regular-os-5870333951e7c.ttf") format("truetype");
+}
+
+h3 {
+    font-family: Font;
+    color: rgb(212, 178, 104);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: linear-gradient( to bottom, rgb(117, 19, 16), rgb(43, 9, 0, 0.80) );
+    border: 5px inset rgb(43, 9, 0, 0.80);
+    border-radius: 2px;
+    box-shadow: 0 0 20px rgb(43, 9, 9, 0.80), inset 0 0 10px rgba(255, 215, 120, 0.2);
+}
+
+h4 {
+    font-family: Font;
+    color: rgb(212, 178, 104);
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: linear-gradient( to bottom, rgb(117, 19, 16), rgb(43, 9, 0, 0.80) );
+    border: 5px inset rgb(43, 9, 0, 0.80);
+    border-radius: 2px;
+    box-shadow: 0 0 20px rgb(43, 9, 9, 0.80), inset 0 0 10px rgba(255, 215, 120, 0.2);
+}
+
+.work-item {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 5px solid rgb(43, 9, 0);
+    border-radius: 2px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7), inset 0 0 10px rgba(255, 215, 120, 0.15);
+}
+
+.weekly-beat {
+    border: solid rgb(43, 9, 9, 0.80);
+}
+
+    .weekly-beat iframe {
+        border: none;
+    }
