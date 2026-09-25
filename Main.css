@@ -1,4 +1,8 @@
-﻿body {
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
     text-align: center;
     margin: 0;
 }
@@ -280,21 +284,22 @@ h4 {
 @media (max-width: 600px) {
 
     .beat-of-the-week h2 {
-        width: 100vw;
-        height: 300px;
-        margin: 0;
-        padding: 0;
-        background-size: 100vw auto;
+        width: 100%;
+        height: 220px;
+
+        margin: 0 auto 20px auto;
+
         background-position: center center;
-        background-repeat: no-repeat;
-        position: relative;
-        left: 50%;
-        transform: translateX(-50%);
+        background-size: contain;
+
+        position: static;
+        transform: none;
     }
 
     .beat-box {
         width: 95%;
         min-height: auto;
+        padding: 10px;
     }
 
     .beat-nav,
