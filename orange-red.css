@@ -123,11 +123,3 @@ h4 {
     .weekly-beat iframe {
         border: none;
     }
-
-
-@media (max-width: 600px) {
-    .beat-of-the-week h2 {
-        background-size: 100% auto;
-        background-position: center center;
-    }
-}
