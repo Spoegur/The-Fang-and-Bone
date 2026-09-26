@@ -17,7 +17,6 @@
 
 .beat-of-the-week h2 {
     background-image: url("images/Ganon.png");
-
     color: transparent;
 }
 
@@ -39,27 +38,27 @@
 }
 
 .sad-button {
-    background-image: url("images/sppook.png");
+    background-image: url("Fang&Bone - Orange&Red/SadBeatsBarn2.png");
 }
 
 .happy-button {
-    background-image: url("images/draaaaiiiin.png");
+    background-image: url("Fang&Bone - Orange&Red/Angrybeatsbackgroundtransparent.png");
 }
 
 .angry-button {
-    background-image: url("images/Plateau-Revised.png");
+    background-image: url("Fang&Bone - Orange&Red/Angrybeatsground.png");
 }
 
 .manor-button {
-    background-image: url("images/image.jpg");
+    background-image: url("images/image2.png");
 }
 
 .art-button {
-    background-image: url("images/image.jpg");
+    background-image: url("images/image2.png");
 }
 
 .WIP-button {
-    background-image: url("images/image.jpg");
+    background-image: url("images/image2.png");
 }
 
 .beat-nav-right a:hover {

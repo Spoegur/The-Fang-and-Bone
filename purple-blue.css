@@ -1,5 +1,5 @@
 ﻿body {
-    background-image: url("Fang&Bone - Purple&Blue/Majora.gif");
+    background-image: url("gifs/guys.gif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -17,12 +17,11 @@
 
 .beat-of-the-week h2 {
     background-image: url("images/Ganon.png");
-
     color: transparent;
 }
 
 .beat-box {
-    background-image: url("Fang&Bone - Purple&Blue/017.JPG");
+    background-image: url("images/whatat2.JPG");
     background-size: 100% auto;
     background-position: center top;
     background-repeat: repeat;
@@ -39,27 +38,27 @@
 }
 
 .sad-button {
-    background-image: url("images/sppook.png");
+    background-image: url("Fang&Bone - Orange&Red/SadBeatsBarn2.png");
 }
 
 .happy-button {
-    background-image: url("images/draaaaiiiin.png");
+    background-image: url("Fang&Bone - Orange&Red/Angrybeatsbackgroundtransparent.png");
 }
 
 .angry-button {
-    background-image: url("images/Plateau-Revised.png");
+    background-image: url("Fang&Bone - Orange&Red/Angrybeatsground.png");
 }
 
 .manor-button {
-    background-image: url("images/image.jpg");
+    background-image: url("images/image2.png");
 }
 
 .art-button {
-    background-image: url("images/image.jpg");
+    background-image: url("images/image2.png");
 }
 
 .WIP-button {
-    background-image: url("images/image.jpg");
+    background-image: url("images/image2.png");
 }
 
 .beat-nav-right a:hover {
