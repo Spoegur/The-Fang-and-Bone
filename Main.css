@@ -199,33 +199,6 @@ h4 {
     }
 }
 
-/* Phone */
-
-@media (max-width: 600px) {
-
-    .works-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .category-grid {
-        grid-template-columns: 1fr;
-    }
-
-    .work-item {
-        height: 280px;
-    }
-
-    .beat-of-the-week h2 {
-        background-image: url("images/Ganon - Copy.png");
-        width: 112%;
-        height: 300px;
-        margin: 0 auto 20px;
-        background-size: auto 100%;
-        background-position: center;
-        background-repeat: no-repeat;
-    }
-}
-
 /* Tablets */
 
 @media (max-width: 1200px) {
@@ -291,6 +264,16 @@ h4 {
 
 @media (max-width: 600px) {
 
+    .beat-of-the-week h2 {
+        background-image: url("images/Ganon - Copy.png");
+        width: 110%;
+        height: 300px;
+        margin: 0 auto 20px;
+        background-size: auto 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
     .beat-box {
         width: 95%;
         min-height: auto;
@@ -337,5 +320,29 @@ h4 {
 
     h4 {
         font-size: 24px;
+    }
+}
+/* Phone */
+
+@media (max-width: 600px) {
+
+    .works-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .category-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .work-item {
+        height: 280px;
+    }
+
+
+}
+
+@media (max-width: 600px) {
+    body {
+        background-attachment: scroll;
     }
 }
