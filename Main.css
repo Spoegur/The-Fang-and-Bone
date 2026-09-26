@@ -282,9 +282,9 @@ h4 {
 @media (max-width: 600px) {
 
     .beat-of-the-week h2 {
-        background-image: url("images/Ganon - Copy.png");
-        width: 112%;
-        height: 300px;
+        background-image: url("images/GanonBOTTOM.png");
+        width: 200%;
+        height: 500px;
 
         margin: 0 auto 20px;
 
