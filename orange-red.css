@@ -123,3 +123,10 @@ h4 {
     .weekly-beat iframe {
         border: none;
     }
+
+@media (max-width: 600px) {
+    body {
+        background-image: none !important;
+        background-color: black;
+    }
+}

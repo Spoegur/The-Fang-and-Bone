@@ -342,11 +342,8 @@ h4 {
 }
 
 @media (max-width: 600px) {
-
     hmtl,
     body {
         background-attachment: scroll;
-        overflow-x: hidden;
-        outline: 30px solid blue;
     }
 }
