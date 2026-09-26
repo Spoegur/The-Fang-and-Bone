@@ -366,7 +366,7 @@ h4 {
     body {
         width: 100%;
         max-width: 100%;
-        overflow-x: clip;
+        overflow-x: hidden;
     }
 
     .beat-of-the-week {
