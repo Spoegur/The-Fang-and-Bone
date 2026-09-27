@@ -119,4 +119,17 @@ h4 {
         background-repeat: no-repeat;
         background-attachment: scroll;
     }
+
+    h3 {
+        
+        border: 5px inset rgba(10, 0, 0.6);
+
+    }
+
+    h4 {
+ 
+        border: 5px inset rgba(10, 0, 0.6);
+    }
 }
+
+
