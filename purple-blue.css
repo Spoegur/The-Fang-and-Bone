@@ -42,11 +42,11 @@
 }
 
 .happy-button {
-    background-image: url("Fang&Bone - Orange&Red/Angrybeatsbackgroundtransparent.png");
+    background-image: url("Fang&Bone - Purple&Blue/Happybeats.png");
 }
 
 .angry-button {
-    background-image: url("Fang&Bone - Orange&Red/Angrybeatsground.png");
+    background-image: url("Fang&Bone - Purple&Blue/Angrytbeatspurple.png");
 }
 
 .manor-button {
@@ -78,7 +78,7 @@ h3 {
     text-transform: uppercase;
     letter-spacing: 2px;
     background: linear-gradient( to bottom, rgb(20, 16, 117), rgb(3, 55, 1, 0.92) );
-    border: 5px inset rgb(183, 84, 0, 0.80);
+    border: 5px inset rgba(10, 0, 0.6);
     border-radius: 2px;
     box-shadow: 0 0 20px rgb(14, 9, 43, 0.80), inset 0 0 10px rgb(0, 36, 255, 0.20);
 }
@@ -90,7 +90,7 @@ h4 {
     text-transform: uppercase;
     letter-spacing: 2px;
     background: linear-gradient( to bottom, rgb(20, 16, 117), rgb(3, 55, 1, 0.92) );
-    border: 5px inset rgb(183, 84, 0, 0.80);
+    border: 5px inset rgba(10, 0, 0.6);
     border-radius: 2px;
     box-shadow: 0 0 20px rgb(14, 9, 43, 0.80), inset 0 0 10px rgb(0, 36, 255, 0.20);
 }
