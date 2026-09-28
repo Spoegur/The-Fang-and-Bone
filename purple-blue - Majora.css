@@ -1,5 +1,5 @@
 ﻿body {
-    background-image: url("Fang&Bone - Purple&Blue/Charliebrown.gif");
+    background-image: url("Fang&Bone - Purple&Blue/Majora.gif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -21,12 +21,12 @@
 }
 
 .beat-box {
-    background-image: url("Fang&Bone - Purple&Blue/135.JPG");
+    background-image: url("Fang&Bone - Purple&Blue/461.JPG");
     background-size: 100% auto;
     background-position: center top;
     background-repeat: repeat;
     border: 15px solid;
-    border-image: url("Fang&Bone - Purple&Blue/400.JPG") 30 round;
+    border-image: url("Fang&Bone - Purple&Blue/134.JPG") 30 round;
     border-radius: 5px;
     box-shadow: 0 0 25px rgba(0, 0, 0, 0.7);
 }
@@ -69,7 +69,7 @@
 
 @font-face {
     font-family: "Font";
-    src: url("fonts/Motion Bold.ttf") format("truetype");
+    src: url("fonts/TheWildBreathOfZelda-15Lv.ttf") format("truetype");
 }
 
 h3 {
@@ -77,7 +77,7 @@ h3 {
     color: rgb(255, 101, 0, 0.85);
     text-transform: uppercase;
     letter-spacing: 2px;
-    background: linear-gradient( to bottom, rgb(20, 16, 117), rgb(3, 55, 1, 0.92) );
+    background: linear-gradient( to bottom, rgb(20, 16, 117), rgb(33, 1, 55, 0.92) );
     border: 5px solid rgb(0 0 0 / 0.80);
     border-radius: 2px;
     box-shadow: 0 0 20px rgb(14, 9, 43, 0.80), inset 0 0 10px rgb(0, 36, 255, 0.20);
@@ -89,7 +89,7 @@ h4 {
     display: inline-block;
     text-transform: uppercase;
     letter-spacing: 2px;
-    background: linear-gradient( to bottom, rgb(20, 16, 117), rgb(3, 55, 1, 0.92) );
+    background: linear-gradient( to bottom, rgb(20, 16, 117), rgb(33, 1, 55, 0.92) );
     border: 5px solid rgb(0 0 0 / 0.80);
     border-radius: 2px;
     box-shadow: 0 0 20px rgb(14, 9, 43, 0.80), inset 0 0 10px rgb(0, 36, 255, 0.20);
@@ -97,9 +97,9 @@ h4 {
 
 .work-item {
     background-color: rgba(0, 0, 0, 0.5);
-    border: 5px solid rgb(43, 9, 0);
+    border: 5px solid rgb(0, 36, 255, 0.20);
     border-radius: 2px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7), inset 0 0 10px rgba(255, 215, 120, 0.15);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7), inset 0 0 10px rgb(14, 9, 43, 0.80);
 }
 
 .weekly-beat {
@@ -114,7 +114,7 @@ h4 {
 
     html,
     body {
-        background-image: url("gifs/guy.gif");
+        background-image: url("Fang&Bone - Purple&Blue/Majora.gif");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
