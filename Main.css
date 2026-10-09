@@ -382,5 +382,9 @@ h4 {
         box-sizing: border-box;
         width: 95%;
     }
+
+    .logo-box {
+        position: absolute;
+    }
 }
 
