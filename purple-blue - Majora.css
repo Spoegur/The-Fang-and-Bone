@@ -38,7 +38,7 @@
 }
 
 .sad-button {
-    background-image: url("Fang&Bone - Purple&Blue/sadbeatsBEAUTY.png");
+    background-image: url("Fang&Bone - Purple&Blue/SadBeatsNEW.png");
 }
 
 .happy-button {
@@ -77,7 +77,7 @@ h3 {
     color: rgb(255, 101, 0, 0.85);
     text-transform: uppercase;
     letter-spacing: 2px;
-    background: linear-gradient( to bottom, rgb(20, 16, 117), rgb(33, 1, 55, 0.92) );
+    background: linear-gradient( to bottom, rgb(20, 16, 117), rgb(33, 1, 55) );
     border: 5px solid rgb(0 0 0 / 0.80);
     border-radius: 2px;
     box-shadow: 0 0 20px rgb(14, 9, 43, 0.80), inset 0 0 10px rgb(0, 36, 255, 0.20);
@@ -89,7 +89,7 @@ h4 {
     display: inline-block;
     text-transform: uppercase;
     letter-spacing: 2px;
-    background: linear-gradient( to bottom, rgb(20, 16, 117), rgb(33, 1, 55, 0.92) );
+    background: linear-gradient( to bottom, rgb(20, 16, 117), rgb(33, 1, 55) );
     border: 5px solid rgb(0 0 0 / 0.80);
     border-radius: 2px;
     box-shadow: 0 0 20px rgb(14, 9, 43, 0.80), inset 0 0 10px rgb(0, 36, 255, 0.20);
